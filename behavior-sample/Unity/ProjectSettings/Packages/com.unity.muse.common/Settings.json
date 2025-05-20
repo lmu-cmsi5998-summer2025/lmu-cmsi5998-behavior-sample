@@ -1,0 +1,31 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Unity.Muse.Common.PreferenceDataWrapper`1[[System.Collections.Generic.List`1[[Unity.Muse.Common.Account.OrganizationInfo, Unity.Muse.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+                "key": "Unity.Muse.Common.Preferences.organizations",
+                "value": "{\"value\":[{\"rid\":1000},{\"rid\":1001},{\"rid\":1002},{\"rid\":1003}],\"references\":{\"version\":2,\"RefIds\":[{\"rid\":1000,\"type\":{\"class\":\"OrganizationInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"org_id\":\"20067061194790\",\"org_name\":\"muse-team\",\"status\":\"entitled\"}},{\"rid\":1001,\"type\":{\"class\":\"OrganizationInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"org_id\":\"2475029114010\",\"org_name\":\"UnityTechnologies\",\"status\":\"trial-expired\"}},{\"rid\":1002,\"type\":{\"class\":\"OrganizationInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"org_id\":\"3573446890827\",\"org_name\":\"Unity Technologies AS Publisher\",\"status\":\"not-entitled\"}},{\"rid\":1003,\"type\":{\"class\":\"OrganizationInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"org_id\":\"5773047840095\",\"org_name\":\"unity_781D18DAB9309525664E\",\"status\":\"not-entitled\"}}]}}"
+            },
+            {
+                "type": "Unity.Muse.Common.PreferenceDataWrapper`1[[Unity.Muse.Common.Account.OrganizationInfo, Unity.Muse.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+                "key": "Unity.Muse.Common.Preferences.organization",
+                "value": "{\"value\":{\"rid\":1000},\"references\":{\"version\":2,\"RefIds\":[{\"rid\":1000,\"type\":{\"class\":\"OrganizationInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"org_id\":\"20067061194790\",\"org_name\":\"muse-team\",\"status\":\"entitled\"}}]}}"
+            },
+            {
+                "type": "Unity.Muse.Common.PreferenceDataWrapper`1[[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+                "key": "Unity.Muse.Common.Preferences.trialDialogShown",
+                "value": "{\"value\":true}"
+            },
+            {
+                "type": "Unity.Muse.Common.PreferenceDataWrapper`1[[Unity.Muse.Common.Account.UsageInfo, Unity.Muse.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+                "key": "Unity.Muse.Common.Preferences.usage",
+                "value": "{\"value\":{\"rid\":1000},\"references\":{\"version\":2,\"RefIds\":[{\"rid\":1000,\"type\":{\"class\":\"UsageInfo\",\"ns\":\"Unity.Muse.Common.Account\",\"asm\":\"Unity.Muse.Common\"},\"data\":{\"used\":1083406,\"total\":3000000}}]}}"
+            },
+            {
+                "type": "Unity.Muse.Common.PreferenceDataWrapper`1[[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+                "key": "Unity.Muse.Common.Preferences.onboardingShown",
+                "value": "{\"value\":true}"
+            }
+        ]
+    }
+}
