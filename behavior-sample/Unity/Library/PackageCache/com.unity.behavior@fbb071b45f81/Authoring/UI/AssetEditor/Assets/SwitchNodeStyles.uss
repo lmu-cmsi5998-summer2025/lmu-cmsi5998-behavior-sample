@@ -1,7 +1,0 @@
-.SwitchNodeUI #Content {
-    flex-direction: column;
-}
-
-.SwitchNodeUI #CreateButton {
-    align-self: center;
-}
